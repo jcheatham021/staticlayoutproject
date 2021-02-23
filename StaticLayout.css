@@ -1,0 +1,188 @@
+.bodytop {
+    background-image: url(https://www.kastapp.co/images/gradient-violet-bg.jpg);
+    background-size: cover; 150%; 150%;
+    height: 100%;
+    margin: 0; 0; 0;
+     
+}
+
+#listitems{
+  position:relative;
+  right:500px;
+  bottom: 100px;
+  top: 0px
+}
+
+.clearbutton{
+  font-family: Arial, Helvetica, sans-serif; font-size: 15px;     color:white; 
+    text-align: center;
+    display: block; 
+    width: 98px;
+    height: 35px;
+    top: 4px;
+    border: solid 2px white;
+    border-radius: 5px
+           color:white;
+    display: block;
+    position: relative;
+    left:1400px;
+    bottom:400px;
+    top:0px
+    
+  
+}
+
+ul li{
+    font-family: Arial, Helvetica, sans-serif; font-size: 16px; color:white;
+    display: block;
+   
+}
+
+li a{
+    list-style-type: none;
+    float: right;
+    padding: 8px;
+    margin: 0;
+    color:white;
+
+
+}
+
+
+h2 {
+    width: 100%;
+    text-align:center;    
+  
+}
+
+h3 p{
+  width: 100%;
+  text-align:center;
+  padding: 70px 
+  
+  
+}
+
+.underlaptop{
+  font-family: Arial, Helvetica, sans-serif; font-size: 45px;       color:white;  
+  
+}
+
+.secondparagraph{
+  font-family: Arial, Helvetica, sans-serif; font-size: 25px;       color:white;
+  text-align; Center;
+}
+
+.orangebutton{
+    font-family: Arial, Helvetica, sans-serif; font-size: 20px;     color:white; 
+    display: block; 
+    width: 190px;
+    height: 50px;
+    top: 0px;
+    border: solid 1px #ff8c2e;
+    background-color: #ff8c2e; 
+    border-radius: 5px
+           color:white;
+    display: block;
+    position: relative;
+    left: 860px
+}
+
+.lowersection{
+  background-color:white;
+  text-align:center;
+ 
+}
+
+#lowertitle{
+  font-family: Arial, Helvetica, sans-serif; font-size: 30px;     color:black; 
+  position:relative;
+  right:50px;
+}
+
+#firstselection{
+  position:relative;
+  right:500px;
+}
+
+#secondselection{
+  position:relative;
+  right:10px;
+  bottom:60px;
+}
+
+#thirdselection{
+  position:relative;
+  left:450px;
+  bottom:120px;
+}
+
+#fourthselection{
+  position:relative;
+  left:450px;
+  
+}
+
+#fifthselection{
+  position:relative;
+  bottom:60px;
+}
+
+#sixthselection{
+  position:relative;
+  right:505px;
+  bottom:95px;
+}
+
+#endingselection{
+  font-family: Arial, Helvetica, sans-serif; font-size: 20px; 
+}
+
+.greenpage{
+    background-image: url(https://www.kastapp.co/images/green-bg.jpg);
+    min-height: 550px;
+    min-width: 200px;
+    background-size: cover; 150%; 150%;
+    
+}
+
+
+  
+
+#heading{
+  text-align:center;
+  font-family: Arial, Helvetica, sans-serif; font-size: 20px; color:white;
+  
+  
+}
+
+.greenparagraph{
+  font-family: Arial, Helvetica, sans-serif; font-size: 15px;       color:white;
+  max-width: 560px;
+  margin-right: auto;
+  margin-left: auto;
+  
+}
+
+.secondorangebutton{
+    font-family: Arial, Helvetica, sans-serif; font-size: 20px;       color:white; 
+    display: block;
+    width: 190px;
+    height: 50px;
+    top: 4px;
+    border: solid 1px #ff8c2e;
+    background-color: #ff8c2e; 
+    border-radius: 5px
+           color:white;
+    display: block;
+    position: relative;
+    left: 860px
+  
+}
+
+#secondlettering{
+  position:relative;
+  right:70px;
+  bottom:75px;
+  
+}
